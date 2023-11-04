@@ -1,37 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+BACKEND: 
+Django DRF, jwt httpyOnly, Djoser, AWS SES for account activation. 
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# transfersandnotes
+<img width="1339" alt="Ekran Resmi 2023-11-04 20 14 24" src="https://github.com/barisbulutdemir/transfersandnotes/assets/24826279/d7c333e2-2045-4fa2-a283-0623953788e5">
+<img width="566" alt="Ekran Resmi 2023-11-04 20 14 31" src="https://github.com/barisbulutdemir/transfersandnotes/assets/24826279/2074c33f-2a0c-49c5-9b2c-46e5e4503a72">
+<img width="1146" alt="Ekran Resmi 2023-11-04 20 14 47" src="https://github.com/barisbulutdemir/transfersandnotes/assets/24826279/718507cd-a676-46db-85e2-95f4dc7b2c92">
+<img width="1311" alt="Ekran Resmi 2023-11-04 20 14 59" src="https://github.com/barisbulutdemir/transfersandnotes/assets/24826279/0aa04702-f9a4-4c1d-9023-1b34ddb3b395">
+<img width="1284" alt="Ekran Resmi 2023-11-04 20 15 10" src="https://github.com/barisbulutdemir/transfersandnotes/assets/24826279/3777fab2-585f-4a09-ac87-5e987cc0d41b">
+<img width="1333" alt="Ekran Resmi 2023-11-04 20 15 27" src="https://github.com/barisbulutdemir/transfersandnotes/assets/24826279/b4189614-40ce-425b-819e-6642b33b3927">
