@@ -12,9 +12,14 @@ const config: Config = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+          'nakliye1': "url('/public/nakliye1.png')",
+
       },
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/forms'),
+              ('@tailwindcss/typography'),
+            ],
+  
 }
 export default config
